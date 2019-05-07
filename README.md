@@ -1,4 +1,14 @@
 # deletemetest01
-Number 1 of many
 
-Here is an edit
+
+Here is an 
+
+**And here is a BOLD edit**
+
+*italics edit* 
+
+***BOLD ITALICS EDIT***
+
+<span style>="text-decoration:underline">Underline Edit</span>
+
+> block quote edit 
